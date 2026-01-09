@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "五ツ座流星群",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-01-09T07:47:08.219445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "五ツ座流星群",
+      "artist": "放課後クライマックスガールズ[小宮果穂(CV.河野ひより)、園田智代子(CV.白石晴香)、西城樹里(CV.永井真里子)、杜野凛世(CV.丸岡和佳奈)、有栖川夏葉(CV.涼本あきほ)]",
+      "has_synced": true,
+      "path": "select/01_五ツ座流星群_放課後クライマックスガールズ[小宮果穂(CV.河野ひより)、園田智代子(CV.白石晴香)、西城樹里(CV.永井真里子)、杜野凛世(CV.丸岡和佳奈)、有栖川夏葉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "五ツ座流星群",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": true,
+      "path": "select/02_五ツ座流星群_放課後クライマックスガールズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "五ツ座流星群",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": true,
+      "path": "select/03_五ツ座流星群_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "五ツ座流星群",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_五ツ座流星群_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
